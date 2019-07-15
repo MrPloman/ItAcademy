@@ -61,10 +61,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Contributors
 
-<<<<<<< 28b9a463f909de3915f6d9c6d0f519fa676487be
 [Citlas](https://github.com/citlas/) - hola!!
 
-=======
-[Citlas](https://github.com/citlas/)
 [BMR](https://github.com/citlas/)
->>>>>>> test Update Readme
+
